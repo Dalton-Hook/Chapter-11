@@ -98,7 +98,11 @@ void displayTotal(double rainAmt[], int elements)
 
 void displayAverage(double rainAmt[], int elements)
 {
-	
+	double total = 0.0;
+	for (int x = 0; x < elements; X++)
+	{
+		total = 
+	}
 }  //end of displayAverage function
 
 void displayHigh(double rainAmt[], int elements)

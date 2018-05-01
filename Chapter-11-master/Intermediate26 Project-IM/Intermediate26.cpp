@@ -1,6 +1,6 @@
 //Intermediate26.cpp - increases the prices stored in
 //an array and then displays the increased prices
-//Created/revised by <your name> on <current date>
+//Created/revised by <Dalton Hook> on <5/1/2018>
 
 #include <iostream>
 #include <iomanip>
